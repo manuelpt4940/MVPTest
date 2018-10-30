@@ -30,4 +30,5 @@ public class MainActivity extends AppCompatActivity implements MainContract.MvpV
     public void showSignUpScreen() {
         Toast.makeText(this, "Sign Up Screen", Toast.LENGTH_SHORT).show();
     }
+    //https://www.youtube.com/watch?v=G1h1qDBakBQ
 }
